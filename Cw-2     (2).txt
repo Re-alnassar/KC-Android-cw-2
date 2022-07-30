@@ -1,0 +1,27 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+		// Example 1 
+		
+		int height = 160;
+		
+		if(height>160)
+		System.out.println(" Enjoy your ride");
+		
+		else
+		System.out.println("Sorry, you cant enter the roller coaster");
+		
+		//  Example 2
+		
+		int height2 = 172;
+		
+		if(height2<160)
+		System.out.println("Sorry, you cant enter the roller coaster");
+		
+		else
+		System.out.println(" Enjoy your ride");
+		
+		
+	}
+}
